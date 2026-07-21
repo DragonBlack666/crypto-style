@@ -1,0 +1,9 @@
+# Crypto Style
+
+> A next-generation affiliate platform on the TON blockchain: smart-contract payouts, NFT profiles, instant rewards, and no administrators or intermediaries.
+
+Crypto Style is a multi-language landing page (available in 11 languages: Russian, English, German, French, Italian, Spanish, Portuguese, Ukrainian, Kazakh, Polish, and Hungarian) that presents a decentralized partner ecosystem. It explains why TON blockchain is used, how NFT profiles work, the roadmap for the platform, and how to connect via Telegram or a wallet.
+
+## Pages
+
+- [/](/): Home — hero, platform features, NFT profile, TON blockchain benefits, roadmap, and call-to-action links.
